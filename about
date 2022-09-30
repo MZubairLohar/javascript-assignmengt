@@ -1,0 +1,6 @@
+Hello Reader:
+
+1: I have added screenshot to show node installation as well as vs code studio
+2: please use terminal to run all tasks. 
+3: type : node "required task"
+example: node 12_greatings
