@@ -1,0 +1,15 @@
+var pizzas = ["crunchy","veg","pepperoni"];
+
+function run() {
+    for (let i = 0; i < pizzas.length; i++) {
+        if(i == 0){
+            console.log(`${pizzas[i]} pizza is best when you are with friends.`);
+        }else if(i == 1){
+            console.log(`${pizzas[i]} pizza i rarely eat.`);
+        }else if(i == 2){
+            console.log(`my family loves ${pizzas[i]} pizza.`);
+        }
+    }
+    console.log("Every one loves pizza in the end");
+}
+run()
